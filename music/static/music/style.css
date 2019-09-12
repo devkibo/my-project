@@ -1,0 +1,13 @@
+body {
+background:  url("https://previews.123rf.com/images/jevee/jevee1512/jevee151200595/49093194-seamless-music-vector-pattern-chaotic-background-with-music-player-headphones-notes-record-over-ligh.jpg")
+}
+
+ul.errorlist {
+    padding-left: 0;
+}
+
+ul.errorlist > li {
+    list-style: none;
+}
+
+  
